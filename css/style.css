@@ -107,6 +107,7 @@ header.site-header{
   display: flex;
   align-items: center;
   gap: 12px;
+  margin-left: auto;
   flex-shrink: 0;
 }
 .logo img{ height: 44px; width: auto; }
