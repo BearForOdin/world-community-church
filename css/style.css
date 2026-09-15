@@ -207,7 +207,7 @@ nav.primary-nav > ul > li.current > a{ color: var(--red); }
 
 /* ---------------- Hero ---------------- */
 .hero{
-  background: url("/images/section.jpg") center center / cover no-repeat;
+  /* background: url("/images/section.jpg") center center / cover no-repeat; */
   color: var(--white);
   overflow: hidden;
 }
