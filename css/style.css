@@ -219,8 +219,8 @@
    }
    
    @media (max-width: 420px){
-     .logo-text span{ display: none; } /* drop the subtitle line to save width */
-     .logo-text{ font-size: 1rem; }
+     .logo-text { visibility: hidden; } /* drop the subtitle line to save width */
+     /* .logo-text{ font-size: 1rem; } */
      .nav-wrap{ padding: 14px 16px; gap: 12px; }
    }
    
