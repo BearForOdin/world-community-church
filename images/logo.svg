@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <circle cx="50" cy="50" r="48" fill="#16233B"/>
+  <circle cx="50" cy="50" r="48" fill="none" stroke="#C89B3C" stroke-width="2"/>
+  <text x="50%" y="54%" text-anchor="middle" dominant-baseline="middle" fill="#C89B3C" font-family="Georgia, serif" font-size="34" font-weight="600">WCC</text>
+</svg>
