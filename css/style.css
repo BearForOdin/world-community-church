@@ -115,7 +115,7 @@
      min-width: 0; /* allow this flex item to shrink below its content size */
      flex-shrink: 1;
    }
-   .logo img{ height: 44px; width: 44px; flex-shrink: 0; }
+   .logo img{ height: 44px; width: auto; flex-shrink: 0; }
    .logo-text{
      font-family: 'Fraunces', serif;
      font-weight: 600;
